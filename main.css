@@ -1,0 +1,56 @@
+body{
+    min-width: 1620px;
+    min-height: 7000px;
+    background-color:#868686
+
+}
+main {
+    font: normal 18px Arial, sans-serif;
+    width: 1600px;
+    background-color: #fff;
+    margin: 0 auto;
+}
+
+
+header {
+    min-height:1000px;
+    background: url(img/smile_1.gif) no-repeat;
+
+}
+
+.logo {
+    width: 200px;
+    height: 79px;
+    background-color: #000;
+    font:30px "Montserrat", sans-serif;
+    color: #fff;
+    margin-right: 10px;
+    display:inline-block;
+    margin: 46px 200px 0 197px;
+}
+
+.btn {
+    text-decoration: none;
+}
+
+h1 {
+    font: 220px "Raleway", sans-serif;
+    font-weight: 200;
+    letter-spacing: 20px;
+    line-height: 70px;
+    text-transform: uppercase;
+    display: block;
+    width: 712px;
+    margin-top: 100px;
+    margin-left: 707px;
+
+}
+
+span {
+    font: bold 64px "Raleway", sans-serif;
+    text-transform: none;
+    letter-spacing: 5px;
+    margin-left: 10px;
+
+
+}
