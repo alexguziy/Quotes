@@ -18,20 +18,20 @@ header {
 
 }
 
-.logo {
-    width: 200px;
-    height: 79px;
-    background-color: #000;
-    font:30px "Montserrat", sans-serif;
-    color: #fff;
-    margin-right: 10px;
-    display:inline-block;
-    margin: 46px 200px 0 197px;
-}
-
 .btn {
     text-decoration: none;
 }
+
+
+.logo {
+    background-color: #000;
+    font:30px "Montserrat", sans-serif;
+    color: #fff;
+
+    margin: 46px 200px 0 197px;
+    padding:
+}
+
 
 h1 {
     font: 220px "Raleway", sans-serif;
@@ -43,14 +43,11 @@ h1 {
     width: 712px;
     margin-top: 100px;
     margin-left: 707px;
-
 }
-
-span {
+h1 span {
     font: bold 64px "Raleway", sans-serif;
     text-transform: none;
     letter-spacing: 5px;
-    margin-left: 10px;
-
-
 }
+
+
