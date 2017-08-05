@@ -20,6 +20,15 @@ header {
 
 .btn {
     text-decoration: none;
+
+}
+
+.header_top {
+    padding-top: 51px;
+    padding-left: 199px;
+}
+.header_top li {
+    list-style: none;
 }
 
 
@@ -28,8 +37,6 @@ header {
     font:30px "Montserrat", sans-serif;
     color: #fff;
 
-    margin: 46px 200px 0 197px;
-    padding:
 }
 
 
@@ -49,5 +56,9 @@ h1 span {
     text-transform: none;
     letter-spacing: 5px;
 }
+
+
+
+
 
 
