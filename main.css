@@ -29,14 +29,15 @@ header {
 }
 .header_top li {
     list-style: none;
+    display: inline-block;
+    vertical-align: top;
 }
-
 
 .logo {
     background-color: #000;
     font:30px "Montserrat", sans-serif;
     color: #fff;
-
+    padding: 29px 22px 25px 22px;
 }
 
 
@@ -58,7 +59,12 @@ h1 span {
 }
 
 
-
-
-
-
+.btn_menu {
+    font: 15px "Montserrat", sans-serif;
+    color:#fff;
+    border-top: 4px solid #fff;
+    border-bottom: 4px solid #fff;
+    text-transform: uppercase;
+    padding: 9px 0;
+    margin-left: 950px;
+}
