@@ -40,25 +40,6 @@ header {
     padding: 29px 22px 25px 22px;
 }
 
-
-h1 {
-    font: 220px "Raleway", sans-serif;
-    font-weight: 200;
-    letter-spacing: 20px;
-    line-height: 70px;
-    text-transform: uppercase;
-    display: block;
-    width: 712px;
-    margin-top: 100px;
-    margin-left: 707px;
-}
-h1 span {
-    font: bold 64px "Raleway", sans-serif;
-    text-transform: none;
-    letter-spacing: 5px;
-}
-
-
 .btn_menu {
     font: 15px "Montserrat", sans-serif;
     color:#fff;
@@ -71,4 +52,26 @@ h1 span {
 .header_top li:nth-child(2){
     padding-top: 20px;
 }
+
+
+
+h1 {
+    font: 220px "Raleway", sans-serif;
+    color: #fff;
+    font-weight: 200;
+    letter-spacing: 20px;
+    line-height: 100px;
+    text-transform: uppercase;
+    display: block;
+    width: 712px;
+    margin-top: 280px;
+    margin-left: 713px;
+}
+h1 span {
+    font: bold 64px "Raleway", sans-serif;
+    text-transform: none;
+    letter-spacing: 5px;
+}
+
+
 
