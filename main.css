@@ -75,3 +75,47 @@ h1 span {
 
 
 
+.introducion h2 {
+    padding: 88px 526px 37px 529px;
+    font: 60px "Raleway", sans-serif;
+    font-weight: 200;
+    display:block;
+    text-align: center;
+
+
+}
+
+span{
+   font: bold 60px "Raleway", sans-serif;
+}
+
+
+.introducion_teme p {
+    font: 20px "Raleway", sans-serif;
+    font-weight: 400;
+    text-align: center;
+    padding: 0 400px ;
+    display: block;
+
+}
+
+.introducion_teme p:nth-child(2){
+    padding-bottom: 48px;
+}
+
+div.line{
+    border-top: 2px solid #000;
+    width: 80px;
+    margin: 0 auto 64px auto;
+
+}
+
+
+.introducion_explanation p:nth-child(1) {
+    font: 20px "Raleway", sans-serif;
+    font-weight: 400;
+    margin: 0 310px 42px 310px;
+    line-height: 30px;
+    white-space: normal;
+    text-align: justify;
+}
